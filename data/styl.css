@@ -1,0 +1,89 @@
+.menu {
+  height: 8%;
+  width: 101%;
+  position: fixed;
+  background: #164a1b;
+  top: 0%;
+  left: 0%;
+}
+body {
+  background: #151c16
+}
+.bicon {
+  height: 20%;
+  width: 11%;
+  position: absolute;
+  top: 20%;
+  left: 85%;
+}
+.menuo {
+  height: 8%;
+  width: 5%;
+  position: fixed;
+  top: 0%;
+  left: 1%;
+}
+.open {
+}
+.invite {
+  position: fixed;
+  color: #fff;
+  font-family: monospace;
+  font-size: 300%;
+  top: 6%;
+  left: 2%;
+  text-shadow: 2px 2px 0px #000, 2px -2px 0px #000, -2px 2px 0px #000,
+    -2px -2px 0px #000;
+}
+.none {
+  display: none;
+}
+.avatar {
+  height: 7%;
+  width: 4%;
+  position: fixed;
+  border-radius: 50%;
+  left: 40%;
+  top:0%;
+  border:3px solid #fff
+}
+.tag{
+  position:fixed;
+  color:#fff;
+  text-shadow:3px 3px 0px #000,
+    3px -3px 0px #000,
+    -3px 3px 0px #000,
+    -3px -3px 0px #000;
+  font-size:250%;top:-3%;
+  left:45%;
+  font-family:monospace
+}
+.gl{
+position:fixed;
+  left:40%;top:10%;height:5%;
+  background: #164a1b;
+  outline:none;color:#fff;
+  border:3px solid #000;
+  font-size:150%
+}
+.cont{
+height:90%;
+  width:100%;
+  position:absolute;top:10%;color:#fff
+}
+.opt{
+height:100%;
+  width:100%;
+}
+.c{
+  background: #151c16;
+color:#fff;outline:none;border:3px solid #fff
+}
+.t{
+  background: #151c16;
+color:#fff;outline:none;border:3px solid #fff
+}
+.desc{
+color:#fff;text-shadow:2px 2px 0px #000,2px -2px 0px #000,-2px 2px 0px #000,-2px -2px 0px #000;
+  position:absolute;left:5%;top:25%
+}
